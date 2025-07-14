@@ -20,7 +20,7 @@ A **futuristic, minimalistic, and ultra-responsive** todo list app powered by **
 
 > Screenshot of the app interface:
 
-![App Screenshot](./imaget.png)
+![App Screenshot](image.png)
 
 ---
 
